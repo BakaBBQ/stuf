@@ -1,0 +1,62 @@
+
+
+
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin-left: 5em;
+  margin-right: 5em;
+  margin-top: 3em;
+  line-height: 24px;
+}
+
+h1 {
+  color: #2C3E50;
+  font-size: 3em;
+}
+
+h2 {
+  margin: 12px 0;
+  color: #34495E;
+  padding-top: 1em;
+  border-top: 1px solid #ccc;
+}
+
+h3, h4, h5, h6{
+  color: #34495E;
+  padding-top: 0.3em;
+}
+
+a {
+  font-size: 80%;
+  color: #7F8C8D;
+}
+
+/*http://adis.ca/article/pretty-code-block-in-css*/
+pre {
+    font-family: 'Courier 10 Pitch', Courier, monospace;
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
+code {
+    font-family: 'Courier 10 Pitch', Courier, monospace;
+    font-size: 95%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    background: #34495E;
+    display: block;
+    padding: 0.5em 1em;
+    border: 1px solid #bebab0;
+    color: #ECF0F1;
+}
+
+
+
